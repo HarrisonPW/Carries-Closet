@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "674384374629",
+    "project_id": "carrie-s-closet",
+    "storage_bucket": "carrie-s-closet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674384374629:android:34379cb493bc5089670f8c",
+        "android_client_info": {
+          "package_name": "com.example.artifact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674384374629-vkou06mehctac12albfdf9n6hp96rh23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXkGplGOL0xSVyyZVqIlP-qKbRxaYhe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674384374629-vkou06mehctac12albfdf9n6hp96rh23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674384374629-k88tmq6tht1n4nmf367dj1csjd4phu47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.artifact"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

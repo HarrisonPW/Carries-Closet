@@ -1,0 +1,251 @@
+[33mcommit 626ab392eb8861bc5034b4d5e0affeae6d6321a8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e7873dd 910db21
+Author: Steven Hua <78586265+smhua@users.noreply.github.com>
+Date:   Sun Apr 23 20:44:39 2023 -0400
+
+    Merge pull request #85 from smhua/UIConfirmationPages
+    
+    changes for cards  in confirmation page
+
+[33mcommit e7873ddb5cb37084d4f1983c20be41c61a78ad9f[m
+Author: ephraimkwon <epjkwon.11@gmail.com>
+Date:   Sun Apr 23 20:42:21 2023 -0400
+
+    fix confirmation pages
+
+[33mcommit 910db216eb47c1d6f464735cc4f1113c2ef4d072[m[33m ([m[1;31morigin/UIConfirmationPages[m[33m)[m
+Merge: f983ab1 1bae6db
+Author: Steven Hua <78586265+smhua@users.noreply.github.com>
+Date:   Sun Apr 23 20:36:31 2023 -0400
+
+    Merge branch 'main' into UIConfirmationPages
+
+[33mcommit 1bae6db71ae1a24eed197c10c202412757279534[m
+Merge: fbf29a4 6df869a
+Author: Teejosity <teejosity@gmail.com>
+Date:   Sun Apr 23 20:34:30 2023 -0400
+
+    Merge branch 'main' of https://github.com/smhua/Carries-Closet-JIC2300
+
+[33mcommit fbf29a4afdcca6f19432f07621970131692cb4c8[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Sun Apr 23 20:34:19 2023 -0400
+
+    Sort requests by oldest first for get all requests
+
+[33mcommit f983ab18b33e139bded0e6cb8c32533b20f8ca9e[m
+Author: Steven Hua <stevenhua@gatech.edu>
+Date:   Sun Apr 23 20:31:13 2023 -0400
+
+    changes for cards  in confirmation page
+
+[33mcommit 6df869a311c6b938eacc208f93c2af7bc9e7d28c[m
+Merge: 1aa8cda 489b719
+Author: ephraimkwon <epjkwon.11@gmail.com>
+Date:   Sun Apr 23 20:30:22 2023 -0400
+
+    Merge branch 'main' of https://github.com/smhua/Carries-Closet-JIC2300
+
+[33mcommit 1aa8cda24d98bf62e2424bed49ea80021e090fe9[m
+Author: ephraimkwon <epjkwon.11@gmail.com>
+Date:   Sun Apr 23 20:30:18 2023 -0400
+
+    fix confirmation pages
+
+[33mcommit 489b719bb70fd96b35fdef21ec1aee1f2e1379a3[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Sun Apr 23 20:17:16 2023 -0400
+
+    Remove useless code
+
+[33mcommit adccd541c1785186d35dc84a0bbfa57fc763d3a2[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Sun Apr 23 20:16:35 2023 -0400
+
+    Fix hygiene request submission to DB
+
+[33mcommit 8101be3bc588d2a28c165ba8ca5cd8954048e162[m[33m ([m[1;31morigin/user_requests[m[33m)[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Sun Apr 23 20:05:24 2023 -0400
+
+    Change android app name to Carrie's Closet
+
+[33mcommit 7ef284fcd4df0611caa60d30a5db6907ca58c143[m
+Merge: f0d8d4e 95d9b90
+Author: Chris Jeong <90231408+cjeong41@users.noreply.github.com>
+Date:   Sun Apr 23 19:44:01 2023 -0400
+
+    Merge pull request #84 from smhua/edit-users-and-requests
+    
+    delete unused files
+
+[33mcommit 95d9b908500dbb7719cf28c84456c69b3b3f165c[m[33m ([m[1;31morigin/edit-users-and-requests[m[33m)[m
+Author: cjeong41 <cjeong41@gatech.edu>
+Date:   Sun Apr 23 19:41:05 2023 -0400
+
+    deleting unused files
+
+[33mcommit 671a0c722ca69dd4cb58bece45a1d1d876ed5ca2[m
+Merge: bd7180f f0d8d4e
+Author: cjeong41 <cjeong41@gatech.edu>
+Date:   Sun Apr 23 19:22:36 2023 -0400
+
+    Merge branch 'main' of https://github.com/smhua/Carries-Closet-JIC2300 into edit-users-and-requests
+
+[33mcommit bd7180fec68832d68e712355d5ee5e50dbf39c3f[m
+Author: cjeong41 <cjeong41@gatech.edu>
+Date:   Sun Apr 23 19:21:51 2023 -0400
+
+    user_request_page changes
+
+[33mcommit f0d8d4e21b3381bf52f21d8d63c2911452b8c31f[m
+Merge: 5b47ed2 eeed947
+Author: Steven Hua <stevenhua@gatech.edu>
+Date:   Sun Apr 23 19:11:30 2023 -0400
+
+    Merge branch 'main' of https://github.com/smhua/Carries-Closet
+
+[33mcommit 5b47ed2f3d1bff72ee7f06c230ff988ceceb3117[m
+Author: Steven Hua <stevenhua@gatech.edu>
+Date:   Sun Apr 23 19:11:21 2023 -0400
+
+    small ui changes
+
+[33mcommit eeed947cb0dd152ecd34fd3e6572172e57312311[m
+Merge: 0bf534b 4aeb699
+Author: Tanner Price <35922889+Teejosity@users.noreply.github.com>
+Date:   Sun Apr 23 19:11:02 2023 -0400
+
+    Merge pull request #83 from smhua/fix_view_name
+    
+    Fixed display of name on view users page
+
+[33mcommit 4aeb699ff19c8a76d9467f9474eb0c58e15e4a42[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Sun Apr 23 19:07:31 2023 -0400
+
+    Fixed display of name on view users page
+
+[33mcommit 0bf534b4c6c0d568267d1593b4bb5f3291964faf[m
+Merge: e03a7c2 1be847e
+Author: KBel008 <122634372+KBel008@users.noreply.github.com>
+Date:   Sun Apr 23 12:39:26 2023 -0400
+
+    Merge pull request #82 from smhua/admin-requests
+    
+    fixed minor bugs with scrolling and formatting
+
+[33mcommit 1be847e7fa03baa7cccf2ee47ab4f9437c94c831[m[33m ([m[1;31morigin/admin-requests[m[33m)[m
+Author: kbelwood3 <kbelwood3@gatech.edu>
+Date:   Sun Apr 23 12:36:06 2023 -0400
+
+    fixed minor bugs with scrolling and formatting
+
+[33mcommit e03a7c258b040c8f6f0551dc39a13665034de2c8[m
+Merge: eaaa6b8 84716c8
+Author: Steven Hua <78586265+smhua@users.noreply.github.com>
+Date:   Sat Apr 22 23:43:05 2023 -0400
+
+    Merge pull request #81 from smhua/UIConfirmationPages
+    
+    commenting out delivery time
+
+[33mcommit 84716c896191a4fb96646e7d785f8a117668859f[m
+Author: Steven Hua <stevenhua@gatech.edu>
+Date:   Sat Apr 22 23:41:39 2023 -0400
+
+    commenting out delivery time
+
+[33mcommit eaaa6b8b953643a41e6fd86dd5e67bf4e0a20e06[m
+Merge: f783a3e c1d1018
+Author: ephraimkwon <80861455+ephraimkwon@users.noreply.github.com>
+Date:   Sat Apr 22 22:34:38 2023 -0400
+
+    Merge pull request #80 from smhua/separate_requests
+    
+    fix requestno
+
+[33mcommit c1d10184ee8db5f70f645d40c41c0077fa0e6379[m[33m ([m[1;31morigin/separate_requests[m[33m, [m[1;32mseparate_requests[m[33m)[m
+Author: ephraimkwon <epjkwon.11@gmail.com>
+Date:   Sat Apr 22 22:33:01 2023 -0400
+
+    fix requestno
+
+[33mcommit f783a3e50acfbdcb4e1b2cbf218d7e4a11577335[m
+Merge: 59494fb 2794231
+Author: Chris Jeong <90231408+cjeong41@users.noreply.github.com>
+Date:   Sat Apr 22 15:08:46 2023 -0400
+
+    Merge pull request #79 from smhua/edit-users-and-requests
+    
+    deny request fix
+
+[33mcommit 27942317a61c7a6652df02aede2d0a4843fdf063[m
+Author: cjeong41 <cjeong41@gatech.edu>
+Date:   Sat Apr 22 15:07:54 2023 -0400
+
+    deny request fix
+
+[33mcommit 59494fb59835c5b04a8ec3ef9882e9f2ac307ac3[m
+Merge: b5e48f3 3d5dade
+Author: Steven Hua <78586265+smhua@users.noreply.github.com>
+Date:   Thu Apr 20 20:20:31 2023 -0400
+
+    Merge pull request #77 from smhua/redesignConfimPage
+    
+    Redesign confim page
+
+[33mcommit 3d5dade0ee583fac84fbb741066cac54b759ca45[m[33m ([m[1;31morigin/redesignConfimPage[m[33m)[m
+Merge: f7a4be9 fa5aa74
+Author: Steven Hua <stevenhua@gatech.edu>
+Date:   Thu Apr 20 20:20:15 2023 -0400
+
+    Merge branch 'main' into redesignConfimPage
+
+[33mcommit b5e48f3d0e62c07b14df2cb40e04a235484c02c6[m
+Merge: fa5aa74 4255498
+Author: Kara Leong <72404810+karajleong02@users.noreply.github.com>
+Date:   Thu Apr 20 18:15:29 2023 -0400
+
+    Merge pull request #78 from smhua/user_requests
+    
+    status button is functional for user requests
+
+[33mcommit 42554986ed9045d8288e73eaf55cd53bb4ea0c46[m
+Author: Kara Leong <karajleong@hotmail.com>
+Date:   Thu Apr 20 18:10:27 2023 -0400
+
+    status button is functional for user requests
+
+[33mcommit f7a4be9b1e09519b5734cef1eeb0fcfd124ad02d[m
+Author: Steven Hua <stevenhua@gatech.edu>
+Date:   Thu Apr 20 17:55:41 2023 -0400
+
+    small changes for ui
+
+[33mcommit fa5aa74dcd3ccc07779206c6751d8aa14ccbe722[m
+Merge: 3065fe3 30c5d22
+Author: Tanner Price <35922889+Teejosity@users.noreply.github.com>
+Date:   Thu Apr 20 17:41:43 2023 -0400
+
+    Merge pull request #76 from smhua/use_vm
+    
+    Use VM & Various Fixes
+
+[33mcommit 30c5d228ff85d76e35108f0dfb7b169b85dceb87[m[33m ([m[1;31morigin/use_vm[m[33m)[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Wed Apr 19 19:00:39 2023 -0400
+
+    Fixed hygiene multiform, user view requests, and delete request permissions.
+
+[33mcommit b4d4d20e765848cea0e2e984004a6a5fb31af4a7[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Wed Apr 19 18:13:57 2023 -0400
+
+    Changed country -> county in database request
+
+[33mcommit 80b2678258173931a7f2fc8ae2ab74254d50698a[m
+Author: Teejosity <teejosity@gmail.com>
+Date:   Wed Apr 19 18:13:16 2023 -0400
+
+    Changed co

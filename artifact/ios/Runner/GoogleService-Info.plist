@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>674384374629-k88tmq6tht1n4nmf367dj1csjd4phu47.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.674384374629-k88tmq6tht1n4nmf367dj1csjd4phu47</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNxRhQSpEmOiWeDjTGY5ZmcS9L5Dw7zlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>674384374629</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.artifact</string>
+	<key>PROJECT_ID</key>
+	<string>carrie-s-closet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carrie-s-closet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:674384374629:ios:3ab97ca069107347670f8c</string>
+</dict>
+</plist>
