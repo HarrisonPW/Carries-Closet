@@ -371,11 +371,11 @@ def update_inventory_item():
         if inventory_ref.document(id).get().to_dict() is None:
             return jsonify({"success": False}), 404
         else:
-            if int(inventory_ref.document(id).get().to_dict()['number']) - int(number) < 0:
+            if int(inventory_ref.document(id).get().to_dict()['number']) + int(number) < 0:
                 return jsonify({"success": False, "message": "Not enough inventory"}), 404
             else:
                 update_number = dict()
-                update_number['number'] = int(inventory_ref.document(id).get().to_dict()['number']) - int(number)
+                update_number['number'] = int(inventory_ref.document(id).get().to_dict()['number']) + int(number)
                 inventory_ref.document(id).update(update_number)
                 return jsonify({"success": True}), 200
     except Exception as e:
