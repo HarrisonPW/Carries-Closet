@@ -8,6 +8,23 @@ through the ability to submit requests, save contact information, view donation 
 ## Link to Installation Guide
 https://docs.google.com/document/d/1VSTkn4_VUnNJ_xH6hnXfZDAcnEIu5uDQdCJHWNW30-s/edit?usp=sharing
 
+## Version 1.4.0
+
+### New Features
+
+- Administrators can view an inventory page that clearly displays the inventory of clothes.
+- Administrators can make changes such as removing items, updating them, or adding new items on the inventory page.
+- There are now more options for sizing, including the full clothing range from XXS to XXL instead of just small, medium, and large.
+
+### Bug Fixes
+
+- N/A
+
+### Known Bugs
+
+- Edit profile will load in the previous user’s logged in information, and changing it will edit the previous user’s information. Occurs when you log in as one user, then logout and sign up as a new user.
+- There is overflow on certain pages for some Android devices.
+
 ## Version 1.0.0
 
 ### New Features
