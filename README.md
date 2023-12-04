@@ -6,7 +6,7 @@ through the ability to submit requests, save contact information, view donation 
 # Release Notes
 
 ## Link to Installation Guide
-https://docs.google.com/document/d/1VSTkn4_VUnNJ_xH6hnXfZDAcnEIu5uDQdCJHWNW30-s/edit?usp=sharing
+[https://docs.google.com/document/d/1VSTkn4_VUnNJ_xH6hnXfZDAcnEIu5uDQdCJHWNW30-s/edit?usp=sharing](https://docs.google.com/document/d/1ZN2thN32yARNK8v4UWeExhZfq5TYpkLs7vTdl3PxPgc/edit?usp=sharing)
 
 ## Version 1.4.0
 
