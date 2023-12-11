@@ -35,6 +35,7 @@ If this option is considered, future teams working on this project should be abl
 ### Future Requirements
 - The actual app must be integrated with this page. The backend API calls are properly written and set up, as well as the front end for this page, however, the app does not yet integrate this page.
 - Integrating the actual page should be an easy task. The difficulty our team was facing was due to the inability to properly log in and connect from the application side. Please reach out to the first team who implemented the app to resolve this issue.
+- Consider migration of app to web based solution, see more in write up above.
 
 ### New Features
 
