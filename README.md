@@ -28,7 +28,7 @@ Specifically given the use case of Carrie's Closet, where features that mobile a
 
 In retrospect, after working with the current tech stack and understanding the current functionalities, it seems that the added complexities of creating a mobile app over a web-based solution is not completely justified unless if added functionalities for future implementation and planning require the mobile interface and features unique to it.
 
-Furthermore, the tech stack required to develop a web based solution are much more common in the industry and are better known by working professionals and students than the current tech stack. Switching gears may provide a better oppurtunity to work on something better understood and thus better implemented, especially considering the plethora of available documentation on such implementations.
+Furthermore, the tech stack required to develop a web based solution are much more common in the industry and are better known by working professionals and students than the current tech stack (ie flutter). Therefore, if such a solution is adopted, it will make it significantly easier for the onboarding process from team to team, and will have a much less steeper learning curve. Switching gears may provide a better oppurtunity to work on something better understood and thus better implemented, especially considering the plethora of available documentation on such implementations.
 
 If this option is considered, future teams working on this project should be able to migrate several parts of code from this project to the web based solution, including the business logic and backend api calls.
 
